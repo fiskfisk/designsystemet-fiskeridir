@@ -2,7 +2,7 @@
   "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
   "outDir": "./design-tokens",
   "themes": {
-    "theme": {
+    "fiskeridir-test": {
       "colors": {
         "main": {
           "accent": "#ffe000"
