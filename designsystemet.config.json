@@ -2,30 +2,18 @@
   "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
   "outDir": "./design-tokens",
   "themes": {
-    "fdir-test-2": {
+    "test-gronn": {
       "colors": {
         "main": {
-          "accent": "#14426B"
+          "accent": "#3eff00"
         },
         "support": {
-          "brand1": "#12AEB4",
-          "brand2": "#5225FF",
-          "support-color-3": "#FFCD00",
-          "support-color-4": "#EA612F",
-          "support-color-5": "#118000",
-          "support-color-6": "#CC0000"
+          "brand1": "#0eff00",
+          "brand2": "#00ff22"
         },
-        "neutral": "#F0F3F5"
+        "neutral": "#05ff00"
       },
-      "overrides": {
-        "severity": {
-          "info": "#B1BAFF",
-          "success": "#A8E09F",
-          "warning": "#FFCD00",
-          "danger": "#FA9696"
-        }
-      },
-      "borderRadius": 6
+      "borderRadius": 4
     }
   }
 }
