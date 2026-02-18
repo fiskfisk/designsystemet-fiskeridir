@@ -5,7 +5,7 @@
     "theme": {
       "colors": {
         "main": {
-          "accent": "#e100ff"
+          "accent": "#0007ff"
         },
         "support": {
           "brand1": "#0D7A5F",
@@ -17,4 +17,3 @@
     }
   }
 }
-
